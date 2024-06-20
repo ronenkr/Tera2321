@@ -54,7 +54,7 @@ Bottom
 ![Bottom](/5030_pcb_bottom.jpg)
 
 ## Console pads
-Found console connection, but only the TX line, Baud rate **57600**
+Found console connection, but only the TX line, Baud rate is **57600**
 
 Could not find the RX or the OS does not respond to input.
 
