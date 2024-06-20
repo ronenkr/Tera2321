@@ -59,3 +59,7 @@ Found console connection, but only the TX line, Baud rate is **57600**
 Could not find the RX or the OS does not respond to input.
 
 ![Console](/Console_connection.png)
+
+
+## Bootlog
+[Log](/bootlog.txt)
