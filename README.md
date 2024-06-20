@@ -42,6 +42,13 @@ And it runs [ThreadX](https://github.com/eclipse-threadx/threadx) (RTOS) [Wiki](
 So I have not idea what to do with that.
 
 ## Pictures ot the PCB
+Top
+
+![Top](/5030_pcb_top.jpg)
+
+Bottom
+
+![Bottom](/5030_pcb_bottom.jpg)
 
 ## Terminal pads
 Baud rate 57600
