@@ -2,7 +2,7 @@
 Info on Tera2321 SoC (dell Wyse 5030 and other) 
 
 ## What is it ?
-It's a zero client using the PCoIP protocol mostly for enterprises, used to connect people to a virtual environment and 
+It's a zero client using the [PCoIP](https://www.teradici.com/) protocol mostly for enterprises, used to connect people to a virtual environment and 
 used just a gateway with minimal capabilities.
 
 Front
