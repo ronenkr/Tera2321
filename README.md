@@ -42,6 +42,9 @@ And it runs [ThreadX](https://github.com/eclipse-threadx/threadx) (RTOS) [Wiki](
 So I have not idea what to do with that.
 
 ## Pictures ot the PCB
+Notable markings on the board, YUKON-6050A2528702-MB-A01
+
+
 Top
 
 ![Top](/5030_pcb_top.jpg)
@@ -50,5 +53,9 @@ Bottom
 
 ![Bottom](/5030_pcb_bottom.jpg)
 
-## Terminal pads
-Baud rate 57600
+## Console pads
+Found console connection, but only the TX line, Baud rate **57600**
+
+Could not find the RX or the OS does not respond to input.
+
+![Console](/Console_connection.png)
